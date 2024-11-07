@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Bachelor degree in Computer Science @Unipd 
+- 🌱 Bachelor's degree in Computer Science @Unipd 
 - 👯 I’m looking forward to my master's degree in Copenaghen 
 - 📫 How to reach me: giuliaadentone@gmail.com
 - 😄 LinkedIN: https://www.linkedin.com/in/giulia-dentone-119255207/
